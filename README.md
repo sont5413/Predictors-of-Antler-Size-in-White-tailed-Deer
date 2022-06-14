@@ -11,9 +11,9 @@
 
 
 ### B. 5.5-year-olds: 
-#### Birth weight of the male was also the most important feature in predicting antler size of 5.5-year-old males. 
+#### Interestingly, the most important feature was SID, which is the father of the male.  Thus, the effects from the father, likely genetic, was the most important feature in predicting antler size of mature males. 
 
 ![5 5](https://user-images.githubusercontent.com/95881308/173692203-97f90e8e-621f-4312-878f-1b0113dad50d.jpg)
 
 ### C. Commonalities and differences
-#### Birth weight of the male was the most influential feature among 4.5-year-olds and the second most influential of 5.5 year olds.  Also for both age groups, all Energy was less predictive than effects from birth weight, body mass, and effects frmo the mother and father (DID and SID). Interestingly, effects from the father are more apparent when individuals are 5.5 years old. 
+#### Birth weight of the male was the most influential feature among 4.5-year-olds and the second most influential of 5.5 year olds.  It is important to note that for both age groups, it wasn't very influential whether or not males were eating a high energy diet versus a low energy diet (as indicated by the feature 'Energy').  In fact, 'Energy' was less predictive than effects from birth weight, body mass, and effects from the mother and father.
