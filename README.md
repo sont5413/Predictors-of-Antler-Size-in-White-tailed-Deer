@@ -3,10 +3,12 @@
 * Data: This is a unique dataset from a captive colony of white-tailed deer with known age, antler mass (kg), and maternal / paternal parentage.
 * Each male was fed ab libitum one of two kinds of pelleted feed that differed in digestible energy, but had similar protein percentage (16%) from the time they were weaned. The standard energy diet 'S' had 2.65 kcal/g of dietary energy and the low energy diet 'L' had 1.77 kcal/g of dietary energy.
 ## Findings
+
 ### A. 4.5-year-olds
 #### Birth weight of the male was the most important feature in predicting antler size of 4.5-year-old males.  This is surprising that birth weight is ranked higher than the body mass of the individual male.  Interestingly, the effects from the father and mother are also influential, whether it be from their genetics, nutritional condition, or otherwise.  What's most surprising here is that, when it comes to determing antler size of mature males, it didn't really matter whether males had been eating a low or high energy diet throughout their life.  
 
 ![4 5](https://user-images.githubusercontent.com/95881308/173692165-cfd22a23-6c83-40ec-9baf-d2a59f30e81e.jpg)
+
 
 ### B. 5.5-year-olds: 
 #### Birth weight of the male was also the most important feature in predicting antler size of 5.5-year-old males. 
