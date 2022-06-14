@@ -19,3 +19,9 @@
 
 ### C. Commonalities and differences
 #### Birth weight of the male was the most influential predictor of 4.5 year olds and the second most influential of 5.5 year olds.  Also for both age groups, all Energy was less predictive than effects from birth weight, body mass, and effects frmo the mother and father (DID and SID). Interestingly, effects from the father are more apparent when individuals are 5.5 years old. 
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/95881308/173686001-1eb44107-6ded-456f-af30-f09111344556.png)
