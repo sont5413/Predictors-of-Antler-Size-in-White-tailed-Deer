@@ -6,20 +6,12 @@
 ### A. 4.5-year-olds
 #### Antler size of 4.5 year-old males is most influenced by the birth weight of the male.  This is surprising that the birth weight of the male is predictive than the body mass of the individual male.  Interestingly, the effects from the father and mother are also influential, whether it be from their genetics, nutritional condition, or otherwise.  What's most surprising here is that, when it comes to determing antler size of mature males, it didn't really matter whether males had been eating a low or high energy diet throughout their life.  
 
-![4 5](https://user-images.githubusercontent.com/95881308/173689291-3576fbb4-4759-4197-b020-1058c4a21c7a.jpg)
-
-##### 4.5-year-old with mother's age at birth of offspring (DaB) and litter type (Lit type) included in dataset.
-
-![4 5_dab](https://user-images.githubusercontent.com/95881308/173689373-e6cd199d-7fc2-4ff3-9779-81f56089d83c.jpg)
+![4 5](https://user-images.githubusercontent.com/95881308/173692165-cfd22a23-6c83-40ec-9baf-d2a59f30e81e.jpg)
 
 ### B. 5.5-year-olds: 
 #### Antler size of 5.5 year-old males is most influenced by the father (SID) followed by the birth weight of the male.
 
-![5 5](https://user-images.githubusercontent.com/95881308/173689390-e8c30aa6-0250-43e9-b3dc-875a9e855687.jpg)
-
-##### 5.5-year-old with mother's age at birth of offspring (DaB) and litter type (Lit type) included in dataset.
-
-![5 5_dab](https://user-images.githubusercontent.com/95881308/173689413-bb89eb69-0220-480a-b860-f6933e2384e6.jpg)
+![5 5](https://user-images.githubusercontent.com/95881308/173692203-97f90e8e-621f-4312-878f-1b0113dad50d.jpg)
 
 ### C. Commonalities and differences
 #### Birth weight of the male was the most influential predictor of 4.5 year olds and the second most influential of 5.5 year olds.  Also for both age groups, all Energy was less predictive than effects from birth weight, body mass, and effects frmo the mother and father (DID and SID). Interestingly, effects from the father are more apparent when individuals are 5.5 years old. 
