@@ -6,21 +6,20 @@
 ### A. 4.5-year-olds
 #### Antler size of 4.5 year-old males is most influenced by the birth weight of the male.  This is surprising that the birth weight of the male is predictive than the body mass of the individual male.  Interestingly, the effects from the father and mother are also influential, whether it be from their genetics, nutritional condition, or otherwise.  What's most surprising here is that, when it comes to determing antler size of mature males, it didn't really matter whether males had been eating a low or high energy diet throughout their life.  
 
-![image](https://user-images.githubusercontent.com/95881308/173463644-f0f7937f-a4bc-4e54-bc22-7f87bc9528c7.png)
+![4 5](https://user-images.githubusercontent.com/95881308/173689291-3576fbb4-4759-4197-b020-1058c4a21c7a.jpg)
+
 ##### 4.5-year-old with mother's age at birth of offspring (DaB) and litter type (Lit type) included in dataset.
-![image](https://user-images.githubusercontent.com/95881308/173463762-4ab2f4d8-8d1b-4a05-8c0f-f7969e1cd832.png)
+
+![4 5_dab](https://user-images.githubusercontent.com/95881308/173689373-e6cd199d-7fc2-4ff3-9779-81f56089d83c.jpg)
 
 ### B. 5.5-year-olds: 
 #### Antler size of 5.5 year-old males is most influenced by the father (SID) followed by the birth weight of the male.
 
-![image](https://user-images.githubusercontent.com/95881308/173463776-1d18925a-4b6f-4a1a-95a7-1cfb73343db1.png)
+![5 5](https://user-images.githubusercontent.com/95881308/173689390-e8c30aa6-0250-43e9-b3dc-875a9e855687.jpg)
+
 ##### 5.5-year-old with mother's age at birth of offspring (DaB) and litter type (Lit type) included in dataset.
-![image](https://user-images.githubusercontent.com/95881308/173463816-9e8c00f3-db77-437e-8f80-0ab17f0c6c6f.png)
+
+![5 5_dab](https://user-images.githubusercontent.com/95881308/173689413-bb89eb69-0220-480a-b860-f6933e2384e6.jpg)
 
 ### C. Commonalities and differences
 #### Birth weight of the male was the most influential predictor of 4.5 year olds and the second most influential of 5.5 year olds.  Also for both age groups, all Energy was less predictive than effects from birth weight, body mass, and effects frmo the mother and father (DID and SID). Interestingly, effects from the father are more apparent when individuals are 5.5 years old. 
-
-
-
-
-![index](https://user-images.githubusercontent.com/95881308/173688838-0858cd27-db31-4130-b732-3da91b217468.jpg)
