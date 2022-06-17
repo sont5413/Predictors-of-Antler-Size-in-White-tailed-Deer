@@ -8,12 +8,12 @@
 
 ### A. 4.5-year-olds:
 
-#### Antler size of 4.5 year-old males is most influenced by the body mass of the male. What's most surprising here is that, when it comes to determing antler size of mature males, it didn't really matter whether males had been eating a low or high energy diet ('Energy') throughout their life.
+#### Antler size of 4.5-year-old males is most influenced by the birth weight of the male. What's most surprising here is that, when it comes to determing antler size of mature males, it didn't really matter whether males had been eating a low or high energy diet ('Energy') throughout their life
 
-![image](https://user-images.githubusercontent.com/95881308/174355247-fab3a2cc-d91a-401c-a440-9fe3ad15bc4e.png)
+![image](https://user-images.githubusercontent.com/95881308/174356911-32e0dcf2-3de1-4c5f-97c4-1eacf9ea46f6.png)
 
 ### B. 5.5-year-olds: 
 
-#### Antler size of 5.5 year-old males is most influenced by the birth weight of the male. The father of the individual male (SID) was the second highest ranked feature. Like in 4.5 year olds, it didn't really matter whether males had been eating a low or high energy diet ('Energy') throughout their life.
+#### Like in 4.5-year-olds, antler size of 5.5-year-old males is most influenced by the birth weight of the male. The father of the individual male ('SID') was the second highest ranked feature. Also, eating a low or high energy diet ('Energy') was not an important feature in predicting antler size of 5.5-year-olds.
 
-![image](https://user-images.githubusercontent.com/95881308/174355262-ad8f447c-3b45-4800-867b-d7d455778e24.png)
+![image](https://user-images.githubusercontent.com/95881308/174356922-f911d2bd-3fa6-4241-b419-e0aa2b9bc340.png)
