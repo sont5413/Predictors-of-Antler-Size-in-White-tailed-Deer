@@ -3,7 +3,7 @@
 * Data: This is a unique dataset from a captive colony of white-tailed deer with known age, antler mass (kg), and maternal / paternal parentage.
 * Each male was fed ab libitum one of two kinds of pelleted feed that differed in digestible energy, but had similar protein percentage (16%) from the time they were weaned. The standard energy diet 'S' had 2.65 kcal/g of dietary energy and the low energy diet 'L' had 1.77 kcal/g of dietary energy.
 
-### Methods: 
+## Methods: 
 * Model seletion: use cross-validation to select between three models: random forest, gradient boosting, and xgboosting regressors.
 * Feature importance: fit selected models to the 4.5- and 5.5-year-olds dataset to assess important features
 
