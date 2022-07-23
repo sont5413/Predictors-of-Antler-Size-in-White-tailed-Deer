@@ -4,7 +4,7 @@
 * Each male was fed ab libitum one of two kinds of pelleted feed that differed in digestible energy, but had similar protein percentage (16%) from the time they were weaned. The standard energy diet 'S' had 2.65 kcal/g of dietary energy and the low energy diet 'L' had 1.77 kcal/g of dietary energy.
 
 ## Methods: 
-* Model seletion: use cross-validation to select between three models: random forest, gradient boosting, and xgboosting regressors.
+* Model seletion: These datasets are very small (<100 rows), thus, I used cross-validation to select between three models: random forest, gradient boosting, and xgboosting regressor models
 * Feature importance: fit selected models to the 4.5- and 5.5-year-olds dataset to assess important features
 
 ## Findings 
