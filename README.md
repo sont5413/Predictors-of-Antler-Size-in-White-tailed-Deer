@@ -11,7 +11,7 @@
 
 ### A. 4.5-year-olds
 * Antler size of 4.5-year-old males is most influenced by the body mass of the male, which is not surprising, but useful to know for certain. 
-* 'Birth wt' is more predictive of antler size in 4.5-year-olds than in 5.5-year-olds.
+* 'Birth wt' is more predictive of antler size in 4.5-year-olds than in 5.5-year-olds. Why? It could be that 4.5-year-olds are still making up for their small body size (and thus antler size) via compensatory growth. Then, by the time they reach 5.5 years, they've made up for their small size, or in other words, there is even less variability in body size (and antler size) among 5.5 year olds.
 * The mother ('DID') and father ('DID') were predictive of antler size.
 * What's most surprising here is that, when it comes to determing antler size of mature males, it didn't really matter whether males had been eating a low or high energy diet ('Energy') throughout their life.  
 
