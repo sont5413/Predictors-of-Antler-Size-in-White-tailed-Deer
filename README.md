@@ -17,4 +17,4 @@
 ### A. Important features from the XGBR model: 
 ![image](https://user-images.githubusercontent.com/95881308/206016737-c7e7d951-6408-4aeb-a2e3-3d4bfecaecd8.png)
 
-Body Mass was the most important feature and far and away more predictive than any of the other predictors.
+Body Mass was the most important feature and far and away more predictive than any of the other features.
